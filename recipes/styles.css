@@ -1,0 +1,22 @@
+body {
+  background-color: purple;
+}
+
+ul {
+  font-size: 18px;
+  font-weight: 800;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+ol {
+  font-size: 18px;
+  font-weight: 800;
+  font-style: oblique;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 18px;
+  font-weight: 800;
+}
